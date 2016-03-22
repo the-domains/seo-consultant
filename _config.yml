@@ -1,0 +1,28 @@
+name: SEO consultant
+favicon: null
+layout_spectrum: 0.971003636252135
+typography_spectrum: 0.10218712128698826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.44365059840492904
+  lightness: 0.02485206350684166
+  saturation: 0.010849851416423917
+  rhythmicContrast: 0.6142971138469875
+purpose: []
